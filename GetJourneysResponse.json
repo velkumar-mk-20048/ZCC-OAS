@@ -1,0 +1,27 @@
+{
+  "journeys": [
+        {
+          "id": "988000000005081",
+          "name": "Onboard track",
+          "description": "test journey",
+          "status": "draft",
+          "created_time": "2023-06-23T22:42:26+05:30",
+          "modified_time": "2023-06-23T22:42:56+05:30",
+          "created_by": {
+            "id": "988000000006002",
+            "name": "Madhan Kumar"
+          },
+          "modified_by": {
+            "id": "988000000006001",
+            "name": "Gokul Sankar"
+          },
+          "cloned_from": {
+            "id": "988000000007011",
+            "name": "New Joureny_1"
+          },
+          "records_count": 0,
+          "group_id": "988000000007004",
+          "version": 1
+        }
+      ]
+}
